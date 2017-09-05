@@ -38,18 +38,22 @@ Description / proposition de valeur unique
 
 * git : 
 
-# Équipe 3 : Nom du projet
+# Équipe 3 : Gestion d'hôtel.
 
-Description / proposition de valeur unique
+Creation d'un logiciel de gestion de réservation des chambres pour les clients et le receptionniste.
 
 ## Équipe
 
-* Nom Prénom
-* ...
+* Fresiers Lucas
+* Alexandre AZZARO
+* Clement BOURDIER
+* Juliette PARISSEAUX
+* Malaury BOUDON
+* Valentin VERSPEEK
 
 ## Resources
 
-* git : 
+* git : https://git-iut.univ-lille1.fr/fresierl/Projet_Agile_Groupe_3.git
 
 # Équipe 4 : Nom du projet
 
@@ -268,23 +272,19 @@ Jeu type CandyCrush
 
 * git : https://github.com/yazstonn/GetYourCrush
 
-# Équipe 19 : OurStory
+# Équipe 19 : Nom du projet
 
-C'est un jeu de donjon narratif, le personnage se deplace de salle en salle générées aléatoirements. Dans ces différentes salles, il devra faire des choix, comme affronter des monstres ou recuperer des objets, son aventure sera déterminée par ses choix. Son but est de sortir du donjon pour gagner.
+Description / proposition de valeur unique
 
 ## Équipe
 
-* GROULEZ Benjamin
-* BON Antoine
-* CORBEAU Lucas
-* LICOUR Samy
-* DUPONT Armand
-* ILIENESCU Anca
+* Nom Prénom
+* ...
 
 ## Resources
 
 
-* git : https://git-iut.univ-lille1.fr/bona/OurStory.git
+* git :
 
 
 
